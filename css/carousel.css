@@ -6,7 +6,8 @@
     grid-template-columns: 1fr 30px 30px 30px 30px 30px 1fr;
     align-items: center;
     justify-items: center;
-    background: white;
+    /* background: white; */
+    
   }
 .slideimage{
     width: 100%;

@@ -97,7 +97,7 @@ header ul li a.active
 .sec2{
     position: relative;
     padding: 100px;
-    background: linear-gradient(to top, white,transparent);
+    /* background: linear-gradient(to top, white,transparent); */
 }
 
 .sec2 p{
@@ -224,9 +224,13 @@ header ul li a.active
     background: #808080;
 }
 .testimonials {
-    background: white;
+    /* background: white; */
     text-align: center;
     padding-top: 1.5em;
+    
+}
+.customposter {
+    width: 45%;
 }
 
 
