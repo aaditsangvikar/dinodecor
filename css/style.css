@@ -99,6 +99,10 @@ header ul li a.active
     padding: 100px;
     background: linear-gradient(to top, white,transparent);
 }
+
+.sec2 p{
+    line-height: 180%;
+}
 .product{
     position: relative;
     width: 100%;
@@ -218,6 +222,11 @@ header ul li a.active
 
 .card-button a:hover{
     background: #808080;
+}
+.testimonials {
+    background: white;
+    text-align: center;
+    padding-top: 1.5em;
 }
 
 
